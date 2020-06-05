@@ -1,0 +1,11 @@
+{
+  "name": "@klipper/bow-dev-pack",
+  "version": "1.0.0",
+  "description": "Dev pack of Progressive Web App for Klipper platform",
+  "repository": "git@github.com:klipperdev/bow-dev-pack.git",
+  "author": "François Pluchino <francois.pluchino@klipper.dev>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+  }
+}
