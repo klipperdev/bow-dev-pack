@@ -1,11 +1,28 @@
 {
-  "name": "@klipper/bow-dev-pack",
-  "version": "1.0.0",
-  "description": "Dev pack of Progressive Web App for Klipper platform",
-  "repository": "git@github.com:klipperdev/bow-dev-pack.git",
-  "author": "François Pluchino <francois.pluchino@klipper.dev>",
-  "license": "MIT",
-  "private": true,
-  "dependencies": {
-  }
+    "name": "@klipper/bow-dev-pack",
+    "version": "1.0.0",
+    "description": "Dev pack of Progressive Web App for Klipper platform",
+    "repository": "git@github.com:klipperdev/bow-dev-pack.git",
+    "author": "François Pluchino <francois.pluchino@klipper.dev>",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "@klipper/dotenv-symfony": "github:klipperdev/dotenv-symfony#master",
+        "@vue/cli-plugin-babel": "^4.3.1",
+        "@vue/cli-plugin-pwa": "^4.3.1",
+        "@vue/cli-plugin-typescript": "^4.3.1",
+        "@vue/cli-service": "^4.3.1",
+        "dotenv": "^8.2.0",
+        "fs-extra": "^9.0.1",
+        "sass": "^1.26.3",
+        "sass-loader": "^8.0.2",
+        "typescript": "^3.8.3",
+        "vue-cli-plugin-vuetify": "^2.0.5",
+        "vue-template-compiler": "^2.6.11",
+        "vuetify-loader": "^1.4.3",
+        "webpack": "^4.42.1",
+        "webpack-cli": "^3.3.11",
+        "webpack-dev-server": "^3.10.3",
+        "webpack-manifest-plugin": "^2.2.0"
+    }
 }
