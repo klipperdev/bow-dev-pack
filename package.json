@@ -1,13 +1,13 @@
 {
     "name": "@klipper/bow-dev-pack",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "description": "Dev pack of Progressive Web App for Klipper platform",
     "repository": "git@github.com:klipperdev/bow-dev-pack.git",
     "author": "François Pluchino <francois.pluchino@klipper.dev>",
     "license": "MIT",
     "private": true,
     "dependencies": {
-        "@klipper/dotenv-symfony": "github:klipperdev/dotenv-symfony#master",
+        "@klipper/dotenv-symfony": "github:klipperdev/dotenv-symfony#1.0",
         "@vue/cli-plugin-babel": "^4.5.13",
         "@vue/cli-plugin-pwa": "^4.5.13",
         "@vue/cli-plugin-typescript": "^4.5.13",
