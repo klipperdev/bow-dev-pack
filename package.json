@@ -15,7 +15,7 @@
         "webpack": "^5.71"
     },
     "dependencies": {
-        "@klipper/dotenv-symfony": "github:klipperdev/dotenv-symfony.git#1.0",
+        "@klipper/dotenv-symfony": "github:klipperdev/dotenv-symfony#1.0",
         "@vue/cli-plugin-babel": "^5.0.4",
         "@vue/cli-plugin-pwa": "^5.0.4",
         "@vue/cli-plugin-typescript": "^5.0.4",
