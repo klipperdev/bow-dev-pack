@@ -6,6 +6,14 @@
     "author": "François Pluchino <francois.pluchino@klipper.dev>",
     "license": "MIT",
     "private": true,
+    "peerDependencies": {
+        "@vue/cli-plugin-pwa": "^5.0",
+        "@vue/cli-plugin-typescript": "^5.0",
+        "@vue/cli-service": "^5.0",
+        "vue-cli-plugin-vuetify": "^2.4",
+        "vuetify-loader": "^1.7",
+        "webpack": "^5.71"
+    },
     "dependencies": {
         "@klipper/dotenv-symfony": "github:klipperdev/dotenv-symfony.git#1.0",
         "@vue/cli-plugin-babel": "^5.0.4",
